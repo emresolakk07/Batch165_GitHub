@@ -2,4 +2,6 @@ git - githyub dersleri
 
 - git init ile klasörümüzde giti başlatırız
 - git add . komutu ile yaptığımız değişikleri working directoryden  stagin aarea ya taşırız
+- git status ile commit öncesinde nerded oldugumuzu görürüz
+- git commit -m "v1" komutu ile değişiklikleri staging areadan commit store a taşırız ve bir versiyon oluştururuz
 
