@@ -5,3 +5,5 @@ git - githyub dersleri
 - git status ile commit öncesinde nerded oldugumuzu görürüz
 - git commit -m "v1" komutu ile değişiklikleri staging areadan commit store a taşırız ve bir versiyon oluştururuz
 - git commit --amend -m "v3" ile mesajı değiştirebiliriz
+- git diff ile working space'deki değişikleri görebiliriz
+- git show hashcode ile de commit store'deki değişiklikleri görebilirz
