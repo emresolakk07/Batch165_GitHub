@@ -1,0 +1,5 @@
+git - githyub dersleri
+
+- git init ile klasörümüzde giti başlatırız
+- git add . komutu ile yaptığımız değişikleri working directoryden  stagin aarea ya taşırız
+
