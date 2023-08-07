@@ -8,4 +8,4 @@ git - githyub dersleri
 - git diff ile working space'deki değişikleri görebiliriz
 - git show hashcode ile de commit store'deki değişiklikleri görebilirz
 - git remote add origin url diyerek bir remote repostory adres tanımlamış oluruz
-- git push -u master ilede dosyalarımızı push ederiz 
+- git push -u origin master ilede dosyalarımızı push ederiz 
