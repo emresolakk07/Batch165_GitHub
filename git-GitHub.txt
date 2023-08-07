@@ -9,3 +9,4 @@ git - githyub dersleri
 - git show hashcode ile de commit store'deki değişiklikleri görebilirz
 - git remote add origin url diyerek bir remote repostory adres tanımlamış oluruz
 - git push -u origin master ilede dosyalarımızı push ederiz 
+- git pull diyrek remote repostory'deki son halini alırız
