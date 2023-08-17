@@ -10,3 +10,5 @@ git - githyub dersleri
 - git remote add origin url diyerek bir remote repostory adres tanımlamış oluruz
 - git push -u origin master ilede dosyalarımızı push ederiz 
 - git pull diyrek remote repostory'deki son halini alırız
+
+git branch ile branchleri listeleriz
