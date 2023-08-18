@@ -16,4 +16,7 @@ git branch --all ile remotedekibranchleride listeleriz
 git branch name diyerek yeni bir branch oluşturunuz
 git merge anatherbranch yazarsak branchleri birleştirmiş oluruz
 git branch -d name yazarak localdeki bir brancı sileriz 
+
+git stash ile değişikler gecici olarak hafızaya alınıır
+
     
