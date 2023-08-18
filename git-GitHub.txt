@@ -13,3 +13,4 @@ git - githyub dersleri
 
 git branch ile branchleri listeleriz
 git branch --all ile remotedekibranchleride listeleriz
+git branch name diyerek yeni bir branch oluşturunuz
