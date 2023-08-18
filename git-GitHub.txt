@@ -12,3 +12,4 @@ git - githyub dersleri
 - git pull diyrek remote repostory'deki son halini alırız
 
 git branch ile branchleri listeleriz
+git branch --all ile remotedekibranchleride listeleriz
